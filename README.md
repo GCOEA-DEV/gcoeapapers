@@ -7,7 +7,7 @@ _Special Thanks to [Omkar Tenkale](https://github.com/omkar-tenkale/gcoeapapers)
 [Play Store](https://play.google.com/store/apps/details?id=omkar.tenkale.gcoeapapers)
 
 ### Todos
-- [ ] Follow a certain architecture (For eg. MVVC)
+- [ ] Follow a certain architecture (For eg. MVVC)  
 _More Todos will be added later_
 
 ### Contributing
