@@ -1,12 +1,14 @@
+_Special Thanks to [Omkar Tenkale](https://github.com/omkar-tenkale/gcoeapapers) for making Gcoea Papers. This repo is a fork of Omkar's Gcoea Papers. Gcoea Developers Club owns no right for the app. This repo was made for further development of Gcoea Papers. Make sure you leave a star ⭐ on Omkar's repo._
 
-Source code of GCOEA Papers app
+# Gcoea Papers
+📚 Official Source code for Gcoea Papers.
 
-https://play.google.com/store/apps/details?id=omkar.tenkale.gcoeapapers
+### Get the App
+[Play Store](https://play.google.com/store/apps/details?id=omkar.tenkale.gcoeapapers)
 
+### Todos
+- [ ] Follow a certain architecture (For eg. MVVC)
+_More Todos will be added later_
 
-Ir was my first android project hence comes with,
-lots of code written WITHOUT following any guidelines.
-Crazy security features.(URL base64 encoding and safe storage,etc)
-No MVC/MVVM, or no standard architecture.
-
-Feel free to raise issues for anything related to this project
+### Contributing
+Feel free to raise any issues or bugs or make a pull request
